@@ -25,6 +25,7 @@ BOT_TOKEN=yourBotToken
 ```bash
 python main.py
 ```
+⚠️ Make sure a system-wide VPN is enabled, otherwise the bot may not be able to connect to Telegram servers.
 
 # Project structure
 ```bash
