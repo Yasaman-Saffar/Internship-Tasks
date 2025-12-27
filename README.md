@@ -27,14 +27,12 @@ python main.py
 ```
 
 # Project structure
+```bash
 Bot/
-
 ├── main.py
-
 ├── config.py
-
 ├── requirements.txt
-
 ├── handlers/
 │   ├── start.py
 │   └── echo.py
+```
