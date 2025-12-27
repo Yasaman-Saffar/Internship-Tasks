@@ -12,6 +12,7 @@ A simple Telegram bot build with **aiogram**.
 
 # How to run
 1.Create a virtual environment
+
 2.Install dependencies:
 ```bash
 pip install -r requirement.txt
@@ -27,9 +28,13 @@ python main.py
 
 # Project structure
 Bot/
+
 ├── main.py
+
 ├── config.py
+
 ├── requirements.txt
+
 ├── handlers/
 │   ├── start.py
 │   └── echo.py
